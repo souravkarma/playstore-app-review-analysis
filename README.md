@@ -1,0 +1,2 @@
+# playstore-app-review-analysis
+It is the simple analysis of playstore app reviews data of various recent years. Fromthis analysis we can understand the consumer behaviour, their using or buying patterns, their top app category/genres interest and so many things. We can also visualize the sentiment of people towards various playstore apps, latest trending apps,most installed apps,top rated,reviewed apps etc.
